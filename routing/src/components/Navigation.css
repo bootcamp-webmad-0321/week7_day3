@@ -1,0 +1,14 @@
+.navigation ul {
+    display: flex;
+    list-style: none;
+    justify-content: flex-end;
+}
+
+.navigation li {
+    margin: 5px;
+}
+
+.navigation .active-section {
+    font-weight: 900;
+    color: red
+}

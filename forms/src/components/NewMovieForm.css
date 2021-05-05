@@ -1,0 +1,10 @@
+.movie-form label {
+    width: 100%;
+    display: block;
+    margin: 10px 0
+}
+
+.movie-form input:not(input[type='checkbox']) {
+    width: 100%;
+
+}
